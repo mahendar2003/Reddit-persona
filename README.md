@@ -8,8 +8,11 @@ Simple tool to scrape a Reddit user's public activity and create a plain‑text 
 Add a .env with:
 
 REDDIT_CLIENT_ID=xxx
+
 REDDIT_CLIENT_SECRET=yyy
+
 REDDIT_USER_AGENT=my-app
+
 OPENAI_API_KEY=sk-***
 
 
