@@ -15,6 +15,8 @@ REDDIT_USER_AGENT=my-app
 
 OPENAI_API_KEY=sk-***
 
+Add the correct credentials of reddit client id, client secret and openai key from their official website.
+Reddit user agent can be any name eg. persona-scrapper
 
  Note: .env file should be in the same folder a od script.py
 
