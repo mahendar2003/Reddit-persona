@@ -5,7 +5,7 @@ Simple tool to scrape a Reddit user's public activity and create a plain‑text 
  Quick Start
 
 
-Add a .env with:
+Add a .env file with these 4:
 
 REDDIT_CLIENT_ID=xxx
 
@@ -23,6 +23,7 @@ Reddit user agent can be any name eg. persona-scrapper
 bash
 
 1. pip install -r requirements.txt
+
 2. python script.py
 
 
